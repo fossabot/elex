@@ -34,7 +34,7 @@
     "@types/p-any": "1.1.2",
     "@types/p-some": "2.0.1",
     "jest": "23.6.0",
-    "rimraf": "2.6.2",
+    "rimraf": "2.6.3",
     "rollup": "0.67.3",
     "rollup-plugin-commonjs": "9.2.0",
     "rollup-plugin-node-resolve": "3.4.0",
